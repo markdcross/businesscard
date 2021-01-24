@@ -38,7 +38,7 @@ const newline = '\n';
 const heading = `${data.name} / ${data.handle}`;
 const working = `${data.work}`;
 const working2 = `${data.work2}`;
-const working3 = `${data.work2}`;
+const working3 = `${data.work3}`;
 // const twittering = `${data.labelTwitter}  ${data.twitter}`;
 const githubing = `${data.labelGitHub}  ${data.github}`;
 const linkedining = `${data.labelLinkedIn}  ${data.linkedin}`;
@@ -56,6 +56,7 @@ const output =
   newline +
   working3 +
   // twittering +
+  newline +
   newline +
   githubing +
   newline +
