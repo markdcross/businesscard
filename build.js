@@ -18,9 +18,8 @@ const data = {
   name: chalk.white('Mark Cross /'),
   handle: chalk.cyan('markdcross'),
   work: chalk.white('Full-stack web developer'),
-  work2: chalk.white(
-    'leveraging over a decade of SaaS sales and sales leadership experience'
-  ),
+  work2: chalk.white('leveraging over a decade of SaaS sales'),
+  work3: chalk.white('and sales leadership experience'),
   twitter: chalk.cyan('twitter.com/markdcross'),
   github: chalk.cyan('github.com/markdcross'),
   linkedin: chalk.cyan('linkedin.com/in/markdcross'),
@@ -39,6 +38,7 @@ const newline = '\n';
 const heading = `${data.name} / ${data.handle}`;
 const working = `${data.work}`;
 const working2 = `${data.work2}`;
+const working3 = `${data.work2}`;
 // const twittering = `${data.labelTwitter}  ${data.twitter}`;
 const githubing = `${data.labelGitHub}  ${data.github}`;
 const linkedining = `${data.labelLinkedIn}  ${data.linkedin}`;
@@ -54,6 +54,7 @@ const output =
   newline +
   working2 +
   newline +
+  working3 +
   // twittering +
   newline +
   githubing +
