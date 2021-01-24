@@ -1,6 +1,6 @@
 {
   "name": "markdcross",
-  "version": "1.2.0",
+  "version": "1.0.0",
   "description": "Mark Cross (@markdcross)'s business card",
   "main": "/bin/card.js",
   "bin": {
@@ -28,7 +28,7 @@
     "business",
     "card"
   ],
-  "author": "Mark Cross",
+  "author": "Mark Cross <markdcross@gmail.com> (http://markdcross.dev)",
   "license": "MIT",
   "files": [
     "bin/card.js",
@@ -42,8 +42,5 @@
   "bugs": {
     "url": "https://github.com/markdcross/businesscard/issues"
   },
-  "dependencies": {},
-  "publishConfig": {
-    "registry": "https://npm.registry.github.com/"
-  }
+  "dependencies": {}
 }
