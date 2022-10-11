@@ -1,6 +1,6 @@
 {
   "name": "markdcross",
-  "version": "2.1.1",
+  "version": "2.1.2",
   "description": "Mark Cross (@markdcross)'s business card",
   "main": "/bin/card.js",
   "bin": {
