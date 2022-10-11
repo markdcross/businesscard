@@ -1,10 +1,10 @@
 {
   "name": "markdcross",
-  "version": "1.4.0",
+  "version": "2.0.0",
   "description": "Mark Cross (@markdcross)'s business card",
   "main": "/bin/card.js",
   "bin": {
-    "markdcross": "./bin/card.js"
+    "markdcross": "bin/card.js"
   },
   "repository": {
     "type": "git",
