@@ -17,7 +17,7 @@ const options = {
 const data = {
   name: chalk.white('Mark Cross /'),
   handle: chalk.cyan('markdcross'),
-  work: chalk.white('Full-stack web developer'),
+  work: chalk.white('Full-stack engineer'),
   work2: chalk.white('leveraging over a decade of SaaS sales'),
   work3: chalk.white('and sales leadership experience'),
   twitter: chalk.cyan('twitter.com/markdcross'),
